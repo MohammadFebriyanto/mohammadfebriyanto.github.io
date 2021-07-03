@@ -165,7 +165,7 @@ publications:
         conference: International Conference On Telecommunication Systems, Services, and Applications, 2020
 
 certification:
-    title: Certification
+    title: Certifications
     assignments:
       - title: Huawei Certified ICT Associate Routing And Switching
         link: http://support.huawei.com/learning/NavigationAction/createNavi?navId=_43
@@ -199,5 +199,54 @@ certification:
         link: http://youracclaim.com/badges/d73a557a-7868-4f9a-8cb6-54987e9e825c/public_url
         tagline: "Exp. Jan 2022"
 
+honors:
+    - title: 2nd Winner Network Competition
+      time: December 2020
+      issuer: Huawei Indonesia
+      
+    - title: Tokoh Inspiratif pada Innovators Highlight
+      time: November 2020
+      issuer: KM ITB
+      
+    - title: Top 10 National Data Science Challenge
+      time: November 2020
+      issuer: Shopee Indonesia
+      
+    - title: Top 10 National Data Competition
+      time: September 2020
+      issuer: Universitas Multimedia Nusantara
+
+    - title: 3rd Winner
+      time: August 2020
+      issuer: Universitas Andalas
+      
+    - title: Best Paper
+      time: August 2020
+      issuer: Universitas Andalas
+
+    - title: Top 30 Analysts (Indonesia, Singapura, and Malaysia)
+      time: April 2020
+      issuer: Institut Teknologi Sepuluh Nopember
+      
+    - title: 1st Runner-Up on National Essay Competition
+      time: November 2019
+      issuer: Universitas Lampung
+    
+    - title: 3rd Place on Essay Competition
+      time: November 2019
+      issuer: Universitas Singaperbangsa Karawang
+    
+    - title: Finalist at Kompetisi Jaringan dan Keamanan Siber Indonesia
+      time: October 2019
+      issuer: Cisco Networking Academy Indonesia
+    
+    - title: Finalist at National Scientific Essay Competition
+      time: November 2019
+      issuer:  Universitas Sebelas Maret
+    
+    - title: Finalist Mission 3.0
+      time: November 2019
+      issuer: Institut Teknologi Sepuluh Nopember
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
