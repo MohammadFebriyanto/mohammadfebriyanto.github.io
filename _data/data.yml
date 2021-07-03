@@ -32,19 +32,19 @@ sidebar:
 
     interests:
       - item: Machine Learning Architecture in Production
-        link: twitter.com/m_febriyanto/status/1399753918070984705
+        link: http://twitter.com/m_febriyanto/status/1399753918070984705
       
       - item: About CAP Theorm
-        link: twitter.com/m_febriyanto/status/1344570751202992131
+        link: http://twitter.com/m_febriyanto/status/1344570751202992131
       
       - item: Introduction to Artificial Intelligence
-        link: youtube.com/watch?v=Hbznm076u5I
+        link: http://youtube.com/watch?v=Hbznm076u5I
       
       - item: Introduction to Machine Learning
-        link: youtube.com/watch?v=tKLUaedei4c
+        link: http://youtube.com/watch?v=tKLUaedei4c
       
       - item: Types of Machine Learning
-        link: youtube.com/watch?v=dLWnM3ibhjc
+        link: http://youtube.com/watch?v=dLWnM3ibhjc
 
 career-profile:
     title: Greetings!
@@ -160,7 +160,7 @@ publications:
     title: Publications
     papers:
       - title: Design of Smart-Gate Based on Artificial Intelligence Possibly for COVID-19 Early Prevention at Public Area
-        link: "https://ieeexplore.ieee.org/document/9310878"
+        link: "http://ieeexplore.ieee.org/document/9310878"
         authors: Dicky Dwi Putra, Mohammad Febriyanto, Muhammad Miqdad Nadra, Wervyan Shalannanda, Elsa Ramadhani Firzal, Achmad Munir
         conference: International Conference On Telecommunication Systems, Services, and Applications, 2020
 
@@ -168,35 +168,35 @@ certification:
     title: Certification
     assignments:
       - title: Huawei Certified ICT Associate Routing And Switching
-        link: support.huawei.com/learning/NavigationAction/createNavi?navId=_43
+        link: http://support.huawei.com/learning/NavigationAction/createNavi?navId=_43
         tagline: "Exp. Nov 2022"
       
       - title: Tensorflow Developer Certified
-        link: credential.net/1abf2350-832f-45c3-9403-bbed368bc57d
+        link: http://credential.net/1abf2350-832f-45c3-9403-bbed368bc57d
         tagline: "Exp. Aug 2023"
       
       - title: Azure Fundamentals
-        link: youracclaim.com/badges/ccaa866e-3b7b-46cc-b152-45ff190fb67e
+        link: http://youracclaim.com/badges/ccaa866e-3b7b-46cc-b152-45ff190fb67e
         tagline: 
       
       - title: Azure AI Fundamentals
-        link: youracclaim.com/badges/42fb0287-c1e8-43e3-b55e-aa5de4bfe731/public_url
+        link: http://youracclaim.com/badges/42fb0287-c1e8-43e3-b55e-aa5de4bfe731/public_url
         tagline: 
       
       - title: Huawei Certified ICT Associate Artificial Intelligence
-        link: support.huawei.com/learning/verifycertificate
+        link: http://support.huawei.com/learning/verifycertificate
         tagline: "Exp. Nov 2022"
       
       - title: CyberOps Associate
-        link: credly.com/badges/05a45de8-c983-404c-8524-8b4a86fed5e6
+        link: http://credly.com/badges/05a45de8-c983-404c-8524-8b4a86fed5e6
         tagline: 
 
       - title: Oracle Cloud Infrastructure 2019 Certified Architect Associate
-        link: credly.com/badges/a0150a0b-e964-4861-a899-bb3382866c84
+        link: http://credly.com/badges/a0150a0b-e964-4861-a899-bb3382866c84
         tagline: "Exp. Jan 2022"
       
       - title: Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate
-        link: youracclaim.com/badges/d73a557a-7868-4f9a-8cb6-54987e9e825c/public_url
+        link: http://youracclaim.com/badges/d73a557a-7868-4f9a-8cb6-54987e9e825c/public_url
         tagline: "Exp. Jan 2022"
 
 footer: >
