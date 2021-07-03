@@ -52,112 +52,101 @@ education:
         - One of 300 trainees that selected from 13,000 participants from Indonesia
         - Distinction Graduates: Top 10% of 300 students
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Programming Language and Web
+        level: Python, Bash Shell Scripting, Go, Heroku, Flask
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: DevOps/Infrastructure tools
+        level: Terraform, Docker, Ansible, Gitlab CI/CD, Git, AWS services (EC2, VPC), GCP services (Compute Engine)
 
-      - name: Angular
-        level: 98%
+      - name: Systems
+        level: L2/L3 Network, Linux OS (Ubuntu and CentOS)
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Machine Learning tools
+        level: Scikit-Learn, Tensorflow, MLflow, Bert as Service, Numpy, Pandas, Celery
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: DevOps Engineer
+      time: June 2021 - Present
+      company: Bukalapak, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Building automation in Monitoring system of Bukalapak to make sure all Infrastructure is going well.
+    
+    - role: Machine Learning Engineer Intern
+      time: March 2021 - June 2021
+      company: Pahamify, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Built machine learning service to separate important and unimportant feedback from c ustomer, which help content producer 
+        to improve the quality of pahamify’s product. Together with Machine Learning Engineer and Infrastructure Engineer, built 
+        integrated machine learning service to reduce downtime while train machine learning model and to increase productivity of 
+        Machine Learning Engineer.
+
+    - role: Devops Engineer Intern
+      time: February 2021 - March 2021
+      company: Agate International, Indonesia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Designed and created automation workflow to reduce time of DevOps engineer in building infrastructures in cloud services from 3+ hours to 15 minutes.
+
+    - role: Tech Lead-Project Intern
+      time: January 2021 - January 2021
+      company: Global Venture Catalyst, Global Company Community
+      details: |
+        Planned Technology implementation of food delivery Business (Study case in Turkey).
+
+    - role: Devops Engineer Intern
+      time: June 2020 - September 2020
+      company: PT Amartha Mikro Fintek, Indonesia
+      details: |
+        Managed infrastructures using Terraform and Ansible that serves service for about 600K+ Small and Medium Enterprise (SME) in Indonesia.
+
+    - role: Coordinator of Research Assistant
+      time: August 2019 - April 2021
+      company: Institut Teknologi Bandung, Indonesia
+      details: |
+        Provided and Created online research module in Basic Physics Laboratory and Radio Telecommunication and Microwave Laboratory of ITB and Led research assistant to gived assistance for 100+ researchers.
+
+    - role: Junior Instructor of Network Fundamental, PTC Network Training Center
+      time: August 2019 - April 2021
+      company: STEI Professional Training Center-Institut Teknologi Bandung, Indonesia
+      details: |
+        Provided assistance to 20 students on Network Fundamental Module.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Physical Distancing Alerting System Using Video Analytics
+        tagline: "Create system that can provide warnings when health protocol violations occur in public place using Jetson Nano and OpenCV"
+      
+      - title: Network Automation using Ansible
+        tagline: "Simulate Software-Defined Network in GNS-3 using Ansible to automate and manage Cisco devices configuration"
+     
+      - title: Sarcasm Detection Web App
+        tagline: "Make a web app using flask to analyze sarcasm using LSTM, GRU, CNN and deploy the app in GCP"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Covid-19 Prediction using Tensorflow
+        tagline: "Predict the growth of people infected with Covid-19 using Keras LSTM model for Forecasting the number of people that infected with Covid-19"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Diabetes Predictor using Deep Learning
+        tagline: "Build Deep Learning model based on Diabetes Patient dataset to predict the probability of someone has diabetes"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Paragon Innovation Fellowship - Smart Dispenser
+        tagline: "Create smart dispencer to provide refill water service to reduce Bottle Waste in ITB"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Money Detector for Tuna Netra
+        tagline: "Create smart device that can help Tuna Netra (Blind) to identify money"
+
+      - title: Patient Monitoring IoT Based
+        tagline: "Create telemedicine smart device that can be monitor a patient from remote"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Design of Smart-Gate Based on Artificial Intelligence Possibly for COVID-19 Early Prevention at Public Area
+        link: "https://ieeexplore.ieee.org/document/9310878"
+        authors: Dicky Dwi Putra, Mohammad Febriyanto, Muhammad Miqdad Nadra, Wervyan Shalannanda, Elsa Ramadhani Firzal, Achmad Munir
+        conference: International Conference On Telecommunication Systems, Services, and Applications, 2020
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
