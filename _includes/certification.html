@@ -1,0 +1,38 @@
+{% assign certification = site.data.data.certification %}
+{% if certification %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ certification.title }}
+  </h2>
+
+  {% if certification.intro %}
+  <div class="intro">
+      <p>{{ certification.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for certification in certification.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if certification.link %}
+        <a href="{{ project.link }}" target="_blank">{{ certification.title }}</a>
+        {% else %}
+        {{ certification.title }}
+        {% endif %}
+      </span>
+
+      {% if certification.tagline %}
+      - <span class="project-tagline">{{ certification.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
