@@ -65,7 +65,7 @@ skills:
         level: L2/L3 Network, Linux OS (Ubuntu and CentOS)
 
       - name: Machine Learning tools
-        level: Scikit-Learn, Tensorflow, MLflow, Bert as Service, Numpy, Pandas, Celery
+        level: Scikit-Learn, Tensorflow, MLflow, Bert as Service, Numpy, Pandas
 
 experiences:
     - role: DevOps Engineer
