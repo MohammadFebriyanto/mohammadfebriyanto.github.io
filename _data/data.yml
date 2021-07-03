@@ -177,11 +177,11 @@ certification:
       
       - title: Azure Fundamentals
         link: http://youracclaim.com/badges/ccaa866e-3b7b-46cc-b152-45ff190fb67e
-        tagline: 
+        tagline: No Expiration Date
       
       - title: Azure AI Fundamentals
         link: http://youracclaim.com/badges/42fb0287-c1e8-43e3-b55e-aa5de4bfe731/public_url
-        tagline: 
+        tagline: No Expiration Date
       
       - title: Huawei Certified ICT Associate Artificial Intelligence
         link: http://support.huawei.com/learning/verifycertificate
@@ -189,7 +189,7 @@ certification:
       
       - title: CyberOps Associate
         link: http://credly.com/badges/05a45de8-c983-404c-8524-8b4a86fed5e6
-        tagline: 
+        tagline: No Expiration Date
 
       - title: Oracle Cloud Infrastructure 2019 Certified Architect Associate
         link: http://credly.com/badges/a0150a0b-e964-4861-a899-bb3382866c84
