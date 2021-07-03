@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Mohammad Febriyanto
-    tagline: Tech and Business enthusiast
+    tagline: Let's make impact to society with Technology and Business
     avatar: febri.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mohammadfebriyantoo@gmail.com
+    email: 
     website: febriyanto.tech #do not add http://
     github: mohammadfebriyanto
     linkedin: mohammadfebriyanto
@@ -31,37 +31,47 @@ sidebar:
         level: Native
 
 career-profile:
-    title: Career Profile
+    title: Greetings!
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi Dude, Welcome to my page. I'm very happy to know that you are curious about me XD.
+      I hope you and your family are always doing well. Just take care of yourself and enjoy your day.
+      *Disclaimer: This is not my official Resume, if you need to know more about me, Feel free hit me through my social media.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor Degree in Telecommunication Engineering
+      university: Institut Teknologi Bandung, Indonesia
+      time: August 2017 - July 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        - GPA 3.84/4.0 (Top 3 of Graduating Class)
+        - 3rd winner of the Most Outstanding Student at Telecommunication Engineering Student 2017 of ITB
+        - Ganesha Karsa Awardee 2020 (Annual award given to students that have achievement on science and social welfare)
+        - Indonesia Ministry Full-Academic Scholarship
+    - degree: Machine Learning Academy
+      university: Google Bangkit Academy, Indonesia
+      time: January 2020 - July 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - One of 300 trainees that selected from 13,000 participants from Indonesia
+        - Distinction Graduates: Top 10% of 300 students
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -148,28 +158,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
