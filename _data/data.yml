@@ -62,7 +62,7 @@ skills:
         level: Terraform, Docker, Ansible, Gitlab CI/CD, Git, AWS services (EC2, VPC), GCP services (Compute Engine)
 
       - name: Systems
-        level: L2/L3 Network, Linux OS (Ubuntu and CentOS)
+        level: L2/L3 Network, Linux OS (Ubuntu and CentOS), Celery
 
       - name: Machine Learning tools
         level: Scikit-Learn, Tensorflow, MLflow, Bert as Service, Numpy, Pandas
