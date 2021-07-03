@@ -160,7 +160,7 @@ publications:
     title: Publications
     papers:
       - title: Design of Smart-Gate Based on Artificial Intelligence Possibly for COVID-19 Early Prevention at Public Area
-        link: "https://ieeexplore.ieee.org/document/9310878"
+        link: "ieeexplore.ieee.org/document/9310878"
         authors: Dicky Dwi Putra, Mohammad Febriyanto, Muhammad Miqdad Nadra, Wervyan Shalannanda, Elsa Ramadhani Firzal, Achmad Munir
         conference: International Conference On Telecommunication Systems, Services, and Applications, 2020
 
@@ -168,35 +168,35 @@ certification:
     title: Certification
     assignments:
       - title: Huawei Certified ICT Associate Routing And Switching
-        link: https://support.huawei.com/learning/NavigationAction/createNavi?navId=_43
+        link: support.huawei.com/learning/NavigationAction/createNavi?navId=_43
         tagline: "Exp. Nov 2022"
       
       - title: Tensorflow Developer Certified
-        link: https://www.credential.net/1abf2350-832f-45c3-9403-bbed368bc57d
+        link: credential.net/1abf2350-832f-45c3-9403-bbed368bc57d
         tagline: "Exp. Aug 2023"
       
       - title: Azure Fundamentals
-        link: https://www.youracclaim.com/badges/ccaa866e-3b7b-46cc-b152-45ff190fb67e
+        link: youracclaim.com/badges/ccaa866e-3b7b-46cc-b152-45ff190fb67e
         tagline: 
       
       - title: Azure AI Fundamentals
-        link: https://www.youracclaim.com/badges/42fb0287-c1e8-43e3-b55e-aa5de4bfe731/public_url
+        link: youracclaim.com/badges/42fb0287-c1e8-43e3-b55e-aa5de4bfe731/public_url
         tagline: 
       
       - title: Huawei Certified ICT Associate Artificial Intelligence
-        link: http://support.huawei.com/learning/verifycertificate
+        link: support.huawei.com/learning/verifycertificate
         tagline: "Exp. Nov 2022"
       
       - title: CyberOps Associate
-        link: https://www.credly.com/badges/05a45de8-c983-404c-8524-8b4a86fed5e6
+        link: credly.com/badges/05a45de8-c983-404c-8524-8b4a86fed5e6
         tagline: 
 
       - title: Oracle Cloud Infrastructure 2019 Certified Architect Associate
-        link: https://www.credly.com/badges/a0150a0b-e964-4861-a899-bb3382866c84
+        link: credly.com/badges/a0150a0b-e964-4861-a899-bb3382866c84
         tagline: "Exp. Jan 2022"
       
       - title: Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate
-        link: https://www.youracclaim.com/badges/d73a557a-7868-4f9a-8cb6-54987e9e825c/public_url
+        link: youracclaim.com/badges/d73a557a-7868-4f9a-8cb6-54987e9e825c/public_url
         tagline: "Exp. Jan 2022"
 
 footer: >
