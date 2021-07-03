@@ -27,10 +27,15 @@
         {% endif %}
       </span>
 
-      {% if certification.tagline %}
-      - <span class="time">{{ certification.tagline }}</span>
-      {% endif %}
+      <div class="meta">
 
+        <div class="upper-row">
+          {% if certification.tagline %}
+          - <span class="time">{{ certification.tagline }}</span>
+          {% endif %}
+        </div><!--//upper-row-->
+  
+      </div><!--//meta-->
     </div><!--//item-->
   {% endfor %}
 
