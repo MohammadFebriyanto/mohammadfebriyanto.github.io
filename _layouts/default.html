@@ -10,7 +10,11 @@
 <body>
   <div>
     <?php
-    mail("notif@febriyanto.tech", "Web Dikunjungi", "web Dikunjungi");
+    $header = "From: hello@febriyanto.tech\r\n";
+    $header.= "MIME-Version: 1.0\r\n";
+    $header.= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+    $header.= "X-Priority: 1\r\n";
+    mail("notif@febriyanto.tech", "Web Dikunjungi", "web Dikunjungi", $header);
     ?>
   </div>
   <div class="wrapper">
