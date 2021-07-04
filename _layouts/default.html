@@ -8,6 +8,13 @@
 {% include head.html %}
 
 <body>
+  <div>
+    <?php 
+    $message = "Ada yang mengunjungi web mu";
+    $message = wordwrap($message, 70);
+    mail('notif@febriyanto.tech', 'Web Dikunjungi', $message);
+    ?>
+  </div>
   <div class="wrapper">
     {% include sidebar.html %}
 
